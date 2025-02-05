@@ -9,6 +9,10 @@ private:
     string model;
     int batteryLife;
 
+
+
+
+
 public:
     // Constructor
     Robot(string n, string m, int b):name(n),model(m),batteryLife(b) {}
